@@ -1,1 +1,1 @@
-Jogo simples fieto para treinar minhas habilidade com VueJs!
+Jogo desenvolvido em Vue.js onde o objetivo é aniquilar um monstro causando danos a ele. O jogador tem a opção de atacar o monstro, curar sua própria vida e causar danos mais potentes. Além disso, todas as ações realizadas pelo jogador são exibidas na tela, incluindo os danos causados, as curas realizadas, os danos recebidos e os ataques mais poderosos executados.
